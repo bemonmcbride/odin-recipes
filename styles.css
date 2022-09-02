@@ -1,0 +1,18 @@
+.medieval{
+    font-family:'Comic Sans MS'
+}
+.times{
+    font-family:'Times New Roman'
+}
+
+.background{
+    background-color:aquamarine;
+    color: black;
+    text-align: center;
+    font-size: larger;
+}
+.headerfont{
+    font-weight: 900;
+    font-size: 30px;
+    text-align: center;
+}
